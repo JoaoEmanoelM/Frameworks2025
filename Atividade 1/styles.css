@@ -1,0 +1,45 @@
+.edit {
+    
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(0, 0, 0);
+
+
+    padding-bottom: 20px;
+}
+
+
+
+.htmlResult {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+
+.cssResult {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}   
+
+.results {
+
+    background-color: beige;
+
+}
+
+.topo {
+    color: black;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+
+}
